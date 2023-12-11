@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Server Health Monitoring Application**
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Spring Boot & Java**
 
 - 📫 How to reach me **hakanyavaseng@gmail.com**
 
