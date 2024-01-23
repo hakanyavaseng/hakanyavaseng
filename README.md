@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hakanyavaseng&label=Profile%20views&color=0e75b6&style=flat" alt="hakanyavaseng" /> </p>
 
-- 🔭 I’m currently working on **Server Health Monitoring Application**
+- 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **Spring Boot & Java**
+- 🌱 I’m currently learning **Entity Framework & ASP.NET Core**
 
 - 📫 How to reach me **hakanyavaseng@gmail.com**
 
