@@ -1,4 +1,4 @@
-![MasterHead](https://c.tenor.com/GfSX-u7VGM4AAAAC/tenor.gif)
+<p align="center"> <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/tenor.gif" alt="hakanyavaseng" /> </p>
 
 <h1 align="center">Hi 👋, I'm Hakan YAVAŞ</h1>
 <h3 align="center">Full-Stack Developer</h3>
