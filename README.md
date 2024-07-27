@@ -7,7 +7,7 @@
 ## What am I doing?
 - 🔭 I’m working on **Web Development**
 
-- 🌱 I’m currently learning: **.NET Core & Angular**
+- 🌱 I’m currently learning: **Docker & AWS**
 
 ## Connect With Me!
 <p align="left">
