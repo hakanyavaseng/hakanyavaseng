@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hakanyavaseng&label=Profile%20views&color=0e75b6&style=flat" alt="hakanyavaseng" /> </p>
 
 ## What am I doing?
-- 🔭 I’m working on **Web Development**
+- 🔭 I’m working on **Back-end Development & DevOps**
 
 - 🌱 I’m currently learning: **Docker & AWS**
 
