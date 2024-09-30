@@ -7,7 +7,6 @@
 ## What am I doing?
 - 🔭 I’m working on **Back-end Development with ABP Framework**
 
-- 🌱 I’m currently learning: **Docker & AWS**
 
 ## Connect With Me!
 <p align="left">
